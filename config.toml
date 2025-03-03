@@ -1,3 +1,2 @@
-destinationServer = "10.10.1.79:7861"
 port = 1237
 directory = "audio"
