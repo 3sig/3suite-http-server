@@ -1,2 +1,5 @@
-port = 1237
-directory = "audio"
+port = 4000
+directory = "dist"
+[replacements]
+"TGK-SERVER-IP" = "localhost"
+"TGK-PLINTH-TEXT" = "Hello! Please contribute something to this story. Wherever your imagination may take you!"
