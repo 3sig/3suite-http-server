@@ -4,6 +4,13 @@ http-server is a standalone static web server, akin to `python -m http.server` o
 
 for configuration, see the [configuration file](./config.toml), and refer to the [3lib-config library docs](https://github.com/3sig/3lib-config)
 
+## usage
+
+### creating a release
+
+ensure that you are in a fully committed state before creating a tag.
+run `npm run release` (or `bun run release`) and follow the prompts.
+
 ### macOS builds
 
 we currently do not support notarization for macOS builds.
